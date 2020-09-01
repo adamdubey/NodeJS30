@@ -7,3 +7,4 @@
 **NOTE:** These are meant to be 1:1 copies of what is done in the tutorials.
 
 [Day 1 - The Beginning](./day1-TheBeginning/README.md)
+[Day 2 - File System](./.day2-filesystem/README.md)
