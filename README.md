@@ -8,3 +8,4 @@
 
 [Day 1 - The Beginning](./day1-TheBeginning/README.md)
 [Day 2 - File System](./.day2-filesystem/README.md)
+[Day 3 - Regular Expressions](./day3-regex/README.md)
