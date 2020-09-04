@@ -6,8 +6,8 @@
 
 **NOTE:** These are meant to be 1:1 copies of what is done in the tutorials.
 
-[Day 1 - The Beginning](./day1-TheBeginning/README.md)
-[Day 2 - File System](./.day2-filesystem/README.md)
-[Day 3 - Regular Expressions](./day3-regex/README.md)
-[Day 4 - Console](./day4-console/README.md)
-[Day 5 - Errors](./day5-errors/README.md)
+- [Day 1 - The Beginning](./day1-TheBeginning/README.md)
+- [Day 2 - File System](./.day2-filesystem/README.md)
+- [Day 3 - Regular Expressions](./day3-regex/README.md)
+- [Day 4 - Console](./day4-console/README.md)
+- [Day 5 - Errors](./day5-errors/README.md)
