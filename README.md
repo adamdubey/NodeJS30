@@ -11,3 +11,5 @@
 - [Day 3 - Regular Expressions](./day3-regex/README.md)
 - [Day 4 - Console](./day4-console/README.md)
 - [Day 5 - Errors](./day5-errors/README.md)
+- [Day 6 - Array methods](./day6-array-methods/README.md)
+- [Day 7 - All about NPM](./day7-all-about-npm/README.md)
