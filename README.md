@@ -13,3 +13,4 @@
 - [Day 5 - Errors](./day5-errors/README.md)
 - [Day 6 - Array methods](./day6-array-methods/README.md)
 - [Day 7 - All about NPM](./day7-all-about-npm/README.md)
+- [Day 8 - Publishing packages on NPM]
