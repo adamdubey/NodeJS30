@@ -15,4 +15,5 @@
 - [Day 7 - All about NPM](./day7-all-about-npm/README.md)
 - [Day 8 - Publishing packages on NPM](./day8-publish-npm-packages/README.md)
 - [Day 9 - Crypto: Hashing & HMAC](./day9-crypto-module/README.md)
-- [Day 10 - Crypto: Encryption & Decryption](./day-10-crypto-module-part-2/README.md)
+- [Day 10 - Crypto: Encryption & Decryption](./day10-crypto-module-part-2/README.md)
+- [Day 11 - Express Framework](./day11-express-framework/README.md)
