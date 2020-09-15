@@ -21,3 +21,4 @@
 - [Day 13 - Signup Form](./day13-signup-form/README.md)
 - [Day 14 - Socket.io](./day14-socket.io/README.md)
 - [Day 15 - All about streams](./day15-all-about-streams/README.md)
+- [Day 16 - Zlib Module](./day16-zlib/README.md)
