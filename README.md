@@ -22,3 +22,4 @@
 - [Day 14 - Socket.io](./day14-socket.io/README.md)
 - [Day 15 - All about streams](./day15-all-about-streams/README.md)
 - [Day 16 - Zlib Module](./day16-zlib/README.md)
+- [Day 17 - CRUD in MySQL using node.js](./day17-crud-mysql/README.md)
