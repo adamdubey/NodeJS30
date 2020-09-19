@@ -25,3 +25,4 @@
 - [Day 17 - CRUD in MySQL using node.js](./day17-crud-mysql/README.md)
 - [Day 18 - Concepts of callbacks in node.js](./day18-callbacks/README.md)
 - [Day 19 - Query String in node.js](./day19-queryString/README.md)
+- [Day 20 - Timers in node.js](./day20-timers/README.md)
