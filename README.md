@@ -27,3 +27,4 @@
 - [Day 19 - Query String in node.js](./day19-queryString/README.md)
 - [Day 20 - Timers in node.js](./day20-timers/README.md)
 - [Day 21 - Node.js Buffers](./day21-buffers/README.md)
+- [Day 22 - String Decoder Module in node.js](./day22-string-decoder/README.md)
