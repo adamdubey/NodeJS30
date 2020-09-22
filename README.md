@@ -28,3 +28,4 @@
 - [Day 20 - Timers in node.js](./day20-timers/README.md)
 - [Day 21 - Node.js Buffers](./day21-buffers/README.md)
 - [Day 22 - String Decoder Module in node.js](./day22-string-decoder/README.md)
+- [Day 23 - Debugger Module in node.js](./day23-debugger-module-nodejs/README.md)
