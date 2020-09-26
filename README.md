@@ -32,3 +32,4 @@
 - [Day 24 - Child Processes in node.js](./day24-child-processes/README.md)
 - [Day 25 - Clusters in node.js](./day25-clusters/README.md)
 - [Day 26 - OS Module in node.js](./day26-os-module/README.md)
+- [Day 27 - Assert Module in node.js](./day27-assert/README.md)
