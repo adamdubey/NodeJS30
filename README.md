@@ -35,3 +35,4 @@
 - [Day 27 - Assert Module in node.js](./day27-assert/README.md)
 - [Day 28 - Getting tweets using node.js](./day28-Getting-tweets-using-node/README.md)
 - [Day 29 - Uploading files to dropbox using node.js](day29-dropbox-file-upload/README.md)
+- [Day 30 - Github API with node.js](./day30-github-api-with-nodejs/README.md)
